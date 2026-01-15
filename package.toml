@@ -1,0 +1,7 @@
+[plugin]
+name = "pandoc-docx"
+version = "0.2.0"
+description = "Bidirectional conversion between Markdown and DOCX using Pandoc"
+authors = ["TharithaMurage"]
+repository = "https://github.com/TharithaMurage/pandoc-docx.yazi"
+keywords = ["pandoc", "docx", "markdown", "convert", "obsidian", "word"]
