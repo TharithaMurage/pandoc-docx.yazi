@@ -32,7 +32,9 @@ git clone https://github.com/TharithaMurage/pandoc-docx.yazi ~/.config/yazi/plug
 The reference document controls the styling of your output (fonts, colors, heading styles, etc.). You can:
 - Use an existing styled DOCX as your template
 - Create one in Word with your preferred styles
-- Use the included [reference.docx](./reference.docx)
+- Download the [reference.docx](./reference.docx) from this repo
+
+> **Note:** The Yazi package manager (`ya pkg`) does not copy `.docx` files. If you installed via `ya pkg add`, download `reference.docx` manually and place it in your preferred location.
 
 ### 2. Add keybinding
 
